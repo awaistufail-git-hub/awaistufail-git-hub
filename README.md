@@ -2,7 +2,7 @@
 
 I am a results-driven professional with 25+ years of experience across Finance, Insurance, Lettings, and Property Management. I specialize in bridging the gap between traditional asset management and modern digital growth strategies.
 
-**🛡️ Core Expertise**
+**🛡️ Core Expertise** - 
 I bring a unique blend of regulatory compliance and aggressive business development to the table:
 
 **Tenancy Enforcement:** Expert in legal compliance, dispute resolution, and maintaining high-standard occupancy.
@@ -13,11 +13,11 @@ I bring a unique blend of regulatory compliance and aggressive business developm
 
 **Digital Marketing:** Managing Google Ads (AdWords) and PPC campaigns to drive targeted traffic and lower acquisition costs.
 
-**🎓 Credentials & Professional Standards**
+**🎓 Credentials & Professional Standards** - 
 
 **CeMAP Qualified** (Certified in Mortgage Advice & Practice). **Chartered Status** in both **Insurance** and **Housing**. Proven track record in navigating complex regulatory environments (FCA/Housing Acts/County Courts and High Court Enforcement).
 
-**🤖 Current Focus & Tech Interests**
+**🤖 Current Focus & Tech Interests** -
 I am currently leveraging my industry expertise to explore how technology can streamline high-stakes operations:
 
 **PropTech Innovation:** Identifying tools that automate the "heavy lifting" of property management.
