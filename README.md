@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**awaistufail-git-hub/awaistufail-git-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<I am a professional with 25+ years of experience in Finance, Insurance, Lettings & Property.
 
-Here are some ideas to get you started:
+🛡️ Credentials
+CeMAP Qualified (Mortgage Advice & Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Chartered in Insurance and Housing
+
+🤖 Current Focus
+I am currently leveraging my industry expertise to explore:
+
+PropTech innovation
+
+Python automation for financial workflows
+
+AI training logic and model evaluation>
