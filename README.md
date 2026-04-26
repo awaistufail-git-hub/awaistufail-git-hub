@@ -16,8 +16,11 @@ Proven track record in navigating complex regulatory environments (FCA/Housing A
 
 **🤖 Current Focus & Tech Interests**
 I am currently leveraging my industry expertise to explore how technology can streamline high-stakes operations:
+
 **PropTech Innovation:** Identifying tools that automate the "heavy lifting" of property management.
+
 **Python Automation:** Building scripts for financial workflows and data-driven reporting.
+
 **AI Training Logic:** Refining model evaluation to ensure accuracy in legal and financial contexts.
 
 ### 📈 Skills & Tools
