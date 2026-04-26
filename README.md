@@ -4,9 +4,13 @@ I am a results-driven professional with 25+ years of experience across Finance, 
 
 **🛡️ Core Expertise**
 I bring a unique blend of regulatory compliance and aggressive business development to the table:
+
 **Tenancy Enforcement:** Expert in legal compliance, dispute resolution, and maintaining high-standard occupancy.
+
 **Income Management:** Specialized in rent collection strategies, arrears recovery, and portfolio yield optimization.
+
 **Lead Generation:** Building high-conversion funnels to scale property and financial portfolios.
+
 **Digital Marketing:** Managing Google Ads (AdWords) and PPC campaigns to drive targeted traffic and lower acquisition costs.
 
 **🎓 Credentials & Professional Standards**
