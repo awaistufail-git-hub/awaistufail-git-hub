@@ -24,6 +24,8 @@ I am currently leveraging my industry expertise to explore how technology can st
 
 **AI Training Logic:** Refining model evaluation to ensure accuracy in legal and financial contexts.
 
+**Quantitative Trading & Algorithmic Finance:** Automated strategies and adaptive market analysis for algorithmic execution.
+
 ### 📈 Skills & Tools
 | Category | Specialized Skills |
 | :--- | :--- |
