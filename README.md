@@ -13,9 +13,7 @@ I bring a unique blend of regulatory compliance and aggressive business developm
 
 **Digital Marketing:** Managing Google Ads (AdWords) and PPC campaigns to drive targeted traffic and lower acquisition costs.
 
-**🎓 Credentials & Professional Standards** - 
-
-**CeMAP Qualified** (Certified in Mortgage Advice & Practice). **Chartered Status** in both **Insurance** and **Housing**. Proven track record in navigating complex regulatory environments (FCA/Housing Acts/County Courts and High Court Enforcement).
+**🎓 Credentials & Professional Standards** - **CeMAP Qualified** (Certified in Mortgage Advice & Practice). **Chartered Status** in both **Insurance** and **Housing**. Proven track record in navigating complex regulatory environments (FCA/Housing Acts/County Courts and High Court Enforcement).
 
 **🤖 Current Focus & Tech Interests** -
 I am currently leveraging my industry expertise to explore how technology can streamline high-stakes operations:
