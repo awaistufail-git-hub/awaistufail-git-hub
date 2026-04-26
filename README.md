@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
->I am a results-driven professional with 25+ years of experience across Finance, Insurance, Lettings, and Property Management. I specialize in bridging the gap between traditional asset management and modern digital growth strategies.
+I am a results-driven professional with 25+ years of experience across Finance, Insurance, Lettings, and Property Management. I specialize in bridging the gap between traditional asset management and modern digital growth strategies.
 
 **🛡️ Core Expertise**
 I bring a unique blend of regulatory compliance and aggressive business development to the table:
