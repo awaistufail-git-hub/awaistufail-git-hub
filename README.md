@@ -15,7 +15,9 @@ I bring a unique blend of regulatory compliance and aggressive business developm
 
 **🎓 Credentials & Professional Standards**
 **CeMAP Qualified** (Certified in Mortgage Advice & Practice)
+
 **Chartered Status** in both **Insurance** and **Housing**
+
 Proven track record in navigating complex regulatory environments (FCA/Housing Acts)
 
 **🤖 Current Focus & Tech Interests**
